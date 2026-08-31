@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ismael 👋
 
-<!--
-**ashopp18/ashopp18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer focused on building web applications and SaaS products from idea to production.
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TypeScript · React · Next.js · JavaScript · Supabase · PostgreSQL · SQL · Git
+
+## Selected work
+
+### Aura Lab
+Commercial SaaS product built with Next.js, TypeScript, Supabase and PostgreSQL.
+
+→ Technical case study coming soon.
+
+### Keepr
+Mobile application project.
+
+### RetroCat Focus
+Native iOS application project.
+
+## What I enjoy working on
+
+- SaaS products
+- Full-stack web applications
+- Product architecture
+- Authentication and user systems
+- Database-backed applications
+- AI-assisted software development
